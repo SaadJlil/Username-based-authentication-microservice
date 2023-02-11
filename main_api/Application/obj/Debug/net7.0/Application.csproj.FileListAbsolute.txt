@@ -1,0 +1,15 @@
+/home/azureuser/Desktop/backend/main_api/Application/bin/Debug/net7.0/Application.deps.json
+/home/azureuser/Desktop/backend/main_api/Application/bin/Debug/net7.0/Application.dll
+/home/azureuser/Desktop/backend/main_api/Application/bin/Debug/net7.0/Application.pdb
+/home/azureuser/Desktop/backend/main_api/Application/bin/Debug/net7.0/Domain.dll
+/home/azureuser/Desktop/backend/main_api/Application/bin/Debug/net7.0/Domain.pdb
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.dll
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/refint/Application.dll
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/Application.pdb
+/home/azureuser/Desktop/backend/main_api/Application/obj/Debug/net7.0/ref/Application.dll

@@ -1,0 +1,12 @@
+/home/azureuser/Desktop/backend/auth_micro/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/azureuser/Desktop/backend/auth_micro/Domain/bin/Debug/net7.0/Domain.dll
+/home/azureuser/Desktop/backend/auth_micro/Domain/bin/Debug/net7.0/Domain.pdb
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.dll
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/Domain.pdb
+/home/azureuser/Desktop/backend/auth_micro/Domain/obj/Debug/net7.0/ref/Domain.dll

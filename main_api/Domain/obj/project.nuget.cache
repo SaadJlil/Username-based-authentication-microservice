@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s63IbrKqqmGzomyxUpXI83mjfOVz7gjIKdGpgcQyBcymccfQ06fylzoGlVpASKtQtGRZqBoFFVs79Wx+dG7jZg==",
+  "success": true,
+  "projectFilePath": "/home/azureuser/Desktop/backend/main_api/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/azureuser/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

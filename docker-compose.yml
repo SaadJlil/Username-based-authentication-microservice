@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: 'rabbitmq_real'
+    environment: 
+        - RABBITMQ_DEFAULT_USER=whatever 
+        - RABBITMQ_DEFAULT_PASS=whatever
+    ports:
+        - 5672:5672
+        - 15672:15672
+
