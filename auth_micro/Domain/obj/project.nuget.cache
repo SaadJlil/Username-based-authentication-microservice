@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DUtDbtokNWBC396uxF47dmUu9GT90F8n5SnMAU9ZtyILYLAIIIYG2bu4ya7stiXuKdj0bri1UQToy7J3tqgew==",
+  "success": true,
+  "projectFilePath": "/home/azureuser/Desktop/backend/auth_micro/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/azureuser/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

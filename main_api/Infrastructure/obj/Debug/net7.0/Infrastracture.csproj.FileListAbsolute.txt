@@ -1,0 +1,17 @@
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Infrastracture.deps.json
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Infrastracture.dll
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Infrastracture.pdb
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Application.dll
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Domain.dll
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Application.pdb
+/home/azureuser/Desktop/backend/main_api/Infrastracture/bin/Debug/net7.0/Domain.pdb
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.csproj.AssemblyReference.cache
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.AssemblyInfoInputs.cache
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.AssemblyInfo.cs
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.csproj.CoreCompileInputs.cache
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.csproj.CopyComplete
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.dll
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/refint/Infrastracture.dll
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/Infrastracture.pdb
+/home/azureuser/Desktop/backend/main_api/Infrastracture/obj/Debug/net7.0/ref/Infrastracture.dll

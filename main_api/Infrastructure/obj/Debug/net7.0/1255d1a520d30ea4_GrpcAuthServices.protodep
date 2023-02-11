@@ -1,0 +1,2 @@
+obj/Debug/net7.0/Protos/GrpcAuthServices.cs \
+obj/Debug/net7.0/Protos/GrpcAuthServicesGrpc.cs: Protos/GrpcAuthServices.proto

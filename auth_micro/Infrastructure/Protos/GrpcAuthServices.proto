@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcAuthServices.Protos";
+
+package GrpcAuthServices;
+
+
+service AuthServices{
+    rpc Authenticate (AuthenticationInput) returns (Jwt);
+    rpc Register (RegisterInput) returns (RegisterOutput);
+    rpc DeleteOwn (DeleteOwnInput) returns (DeleteOwnOutput);
+}
+
+
+message DeleteOwnInput{
+  string Token = 1;
+}
+
+message DeleteOwnOutput{
+  bool Result = 1;
+}
+
+message RegisterOutput{
+  string Username = 1;
+}
+
+message RegisterInput{
+  string Username = 1;
+  string Password = 2;
+}
+
+
+message AuthenticationInput{
+  string Username = 1;
+  string Password = 2;
+}
+
+message Jwt{
+  string JwtString = 1;
+}
